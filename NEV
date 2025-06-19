@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1,NEWS   | CTV 480
+https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_480p/chunks.m3u8
+#EXTINF:-1,ANIME  | ONEGAI 480
+https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_480p/chunks.m3u8
+#EXTINF:-1,NEWS   | PBO 480
+https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_480p/chunks.m3u8
+
