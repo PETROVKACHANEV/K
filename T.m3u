@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,VARIADO   | BRAND 720
+http://tv.mapfibra.com.br:8555/live/11285/123456/70.m3u8
 #EXTINF:-1,NEWS   | CTV 480
 https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_480p/chunks.m3u8
 #EXTINF:-1,ANIME  | ONEGAI 480
@@ -13,3 +15,11 @@ http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/1c02879d-7c36-4c24-bb99-c8e7a9
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/fb62444f-62ad-4969-9b38-abfb1e5a3e99.m3u8
 #EXTINF:-1,SPORTS   | DS  720
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/b3dd64a7-92ca-4b63-94ee-a4ed4c6b37e7.m3u8
+#EXTINF:-1,SPORTS   | SPTV FHD
+http://tvmate.icu:8080/vNay0H/219352/167742
+#EXTINF:-1,SPORTS   | SPTV 2 HD
+http://tvmate.icu:8080/vNay0H/219352/167743
+#EXTINF:-1,SPORTS   | SPTV 3 HD
+http://tvmate.icu:8080/vNay0H/219352/167744
+#EXTINF:-1,SPORTS   | SPTV 4 FHD
+http://tvmate.icu:8080/vNay0H/219352/167745
