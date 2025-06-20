@@ -23,3 +23,9 @@ http://tvmate.icu:8080/vNay0H/219352/167743
 http://tvmate.icu:8080/vNay0H/219352/167744
 #EXTINF:-1,SPORTS   | SPTV 4 FHD
 http://tvmate.icu:8080/vNay0H/219352/167745
+#EXTINF:-1,SPORTS   | DS 1 
+http://38.211.242.128:8001/play/a09s/index.m3u8
+#EXTINF:-1,SPORTS   | DS 2
+http://38.211.242.128:8001/play/a05g/index.m3u8
+#EXTINF:-1,SPORTS   | DS+
+http://38.211.242.128:8001/play/a05h/index.m3u8
