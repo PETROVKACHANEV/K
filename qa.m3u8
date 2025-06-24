@@ -56,6 +56,9 @@ http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/1c02879d-7c36-4c24-bb99-c8e7a9
 #EXTINF:-1 tvg-logo="https://ott-assets.mdstrm.com/526590f532b8fca13200005c/66563a476780f218bb74c7cc/assets/Logo_Play_B_Footer2.png",SPORTS | WS 480
 http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/1c02879d-7c36-4c24-bb99-c8e7a90b4afe.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",SPORTS | DS 1 
+https://tyg2mnl9.fubohd.com/dsports/mono.m3u8?token=95451ea985e8963e9a0a809e7c07743f25e45b54-8d-1750748219-1750730219
+
 
 
 
