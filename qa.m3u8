@@ -41,7 +41,7 @@ https://ewvz.fubohd.com/movistar/mono.m3u8?token=c221ff2ff08cf7b39b9bbaf2aba54eb
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/fox-sports-premium-mx.png?raw=true",EVENTO SPORTS |FP
 https://cgxheq.fubohd.com/foxsportspremium/mono.m3u8?token=7a5b749518d72090a849f64eda6294c38ae04344-4-1750759640-1750741640
 
-EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/vix-lam.png?raw=true",EVENTO 2 SPORTS | TS 2
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/vix-lam.png?raw=true",EVENTO 2 SPORTS | TS 2
 https://ym9yzq.fubohd.com/winsports/mono.m3u8?token=186cc2e8d2c8509938f200668bd46909f8a2fe2b-2b-1750814225-1750796225
 
 
