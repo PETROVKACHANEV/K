@@ -8,41 +8,24 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830230313/be8c9945376d_480_270.jpg",NEWS | PBO 480
 https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-5-mx.png",VARIADO | 5MX 720
-http://181.78.106.127:9000/play/ca012/index.m3u8
+https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",SPORTS | DS  720
+https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",VARIADO | UVA 1080
+https://ott-assets.mdstrm.com/526590f532b8fca13200005c/66563a476780f218bb74c7cc/assets/Logo_Play_B_Footer2.png",SPORTS | WS 480
+https://ott-assets.mdstrm.com/526590f532b8fca13200005c/66563a476780f218bb74c7cc/assets/Logo_Play_B_Footer2.png",SPORTS | WS 480
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/globo-br.png",VARIADO | GLOBO 720
-https://play.agenciastreaming.com:8081/antenarecepcion/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",SPORTS | DS  720
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/b3dd64a7-92ca-4b63-94ee-a4ed4c6b37e7.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",SPORTS | DS UY 720
-http://181.78.106.127:9000/play/ca026/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",VARIADO | UVA 1080
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/fb62444f-62ad-4969-9b38-abfb1e5a3e99.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/tudn-mx.png",SPORTS | TDN 360
-http://181.78.106.127:9000/play/ca036/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://ott-assets.mdstrm.com/526590f532b8fca13200005c/66563a476780f218bb74c7cc/assets/Logo_Play_B_Footer2.png",SPORTS | WS 480
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/1c02879d-7c36-4c24-bb99-c8e7a90b4afe.m3u8
-
-#EXTINF:-1 tvg-logo="https://ott-assets.mdstrm.com/526590f532b8fca13200005c/66563a476780f218bb74c7cc/assets/Logo_Play_B_Footer2.png",SPORTS | WS 480
-http://mundo2.pro:80/live/pe4700mary/Bm2N6Um9HH4p/1c02879d-7c36-4c24-bb99-c8e7a90b4afe.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/neon1-247.png?raw=true",EVENTO SPORTS | DS 1 
-https://aGl2ZQ.fubohd.com:443/dsports/mono.m3u8?token=e2fa25b9a62c220327b5b00937e98226f4571541-b3-1750914729-1750896729
+https://aw1wcm92zq.fubohd.com:443/dsports/mono.m3u8?token=7b4525b62715489bf64cb3cb01bfc50df2b4386c-42-1751000766-1750982766
 
 #EXTINF:-1 tvg-logo="https://img.golazoplay.com/uploads/movistar_deportes_2ca3b42a10.webp",EVENTO SPORTS | MSTA 
-https://qzv4jmsc.fubohd.com:443/dsports2/mono.m3u8?token=64ac7dfa59ffe636598e1b40e4d02fbf390943e7-74-1750914866-1750896866
+https://wp9xqedt.fubohd.com:443/dsports2/mono.m3u8?token=88c935d8ec40b8d758f6ca93a25c2c6d9416b034-fe-1751001137-1750983137
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/fox-sports-premium-mx.png?raw=true",EVENTO SPORTS |FP
-https://cgxheq.fubohd.com/foxsportspremium/mono.m3u8?token=7a5b749518d72090a849f64eda6294c38ae04344-4-1750759640-1750741640
+https://madrid.crackstreamslivehd.com/dsports/tracks-v1a1/mono.m3u8?ip=38.25.17.213&token=93f8819d76667c723458884df3fdba51b0ec6b30-95-1751029217-1750975217
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/vix-lam.png?raw=true",EVENTO 2 SPORTS | TS 2
-https://ym9yzq.fubohd.com/winsports/mono.m3u8?token=186cc2e8d2c8509938f200668bd46909f8a2fe2b-2b-1750814225-1750796225
+https://14c51.crackstreamslivehd.com/dsports2/tracks-v1a1/mono.m3u8?ip=38.25.17.213&token=fd89c411e1e094c203c7832d575061a7e71b50da-a3-1751029114-1750975114
+
 
 
 
