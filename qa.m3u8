@@ -1,28 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829900914/903533da5273_480_270.png",ANIME | ONEGAI 480
-https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_480p/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830718942/48601034fa01_480_270.png",NEWS | CTV 480
-https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_480p/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/22/1735830230313/be8c9945376d_480_270.jpg",NEWS | PBO 480
-https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_480p/chunks.m3u8
-
-https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",SPORTS | DS  720
-https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",VARIADO | UVA 1080
-https://ott-assets.mdstrm.com/526590f532b8fca13200005c/66563a476780f218bb74c7cc/assets/Logo_Play_B_Footer2.png",SPORTS | WS 480
-https://ott-assets.mdstrm.com/526590f532b8fca13200005c/66563a476780f218bb74c7cc/assets/Logo_Play_B_Footer2.png",SPORTS | WS 480
 
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/24-7/neon1-247.png?raw=true",EVENTO SPORTS | DS 1 
-https://dmvudge.fubohd.com:443/disney2/video.m3u8?token=bb9e84dafe7c2a36f6c24b785408a4cf36d28f5b-a2-1752728310-1752710310
 
 
 #EXTINF:-1 tvg-logo="https://img.golazoplay.com/uploads/movistar_deportes_2ca3b42a10.webp",EVENTO SPORTS | MSTA 
-https://c2nvdxq.fubohd.com:443/espn/mono.m3u8?token=64c5d44d32d5d840b68852c2a1cafddcaad57c5a-15-1752728654-1752710654
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/fox-sports-premium-mx.png?raw=true",EVENTO SPORTS |FPhttps://c2nvdxq.fubohd.com/disney3/video.m3u8?token=01469255dbe99935ff0af3670735aa90038b0c66-a-1752018235-1752000235
-https://miami.crackstreamslivehd.com/espn/tracks-v1a1/index.m3u8?token=ba09f921d33630c20d959f5b4ef74b6b94806977-9d-1752758225-1752704225
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/mexico/fox-sports-premium-mx.png?raw=true",EVENTO SPORTS |FP
 
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/vix-lam.png?raw=true",EVENTO 2 SPORTS | TS 2
 
